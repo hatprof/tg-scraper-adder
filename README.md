@@ -18,6 +18,7 @@ developer - https://t.me/pysmart
 - download [Python](https://python.org)
 - install the python software
 - open the python terminal
+- pip install telethon
 - run the main.py scirpt
 - python3 main.py
 
